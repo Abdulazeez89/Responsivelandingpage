@@ -10,17 +10,17 @@
     <header>
         <nav>
             <ul>
-                <li><a href="#">Home</a></li>
-                <li><a href="#">About</a></li>
-                <li><a href="#">Contact</a></li>
+                <li><a href="#">My Product</a></li>
+                <li><a href="#">Sign Up</a></li>
+                <li><a href="#">Learn More aboutMy Service </a></li>
             </ul>
         </nav>
     </header>
     <main>
-        <section class="hero">
-            <h1>Welcome to our landing page</h1>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.</p>
-            <button>Learn More</button>
+        <section class="Hero">
+            <h1>Welcome to My Landing Page</h1>
+            <p>This is the Landing Page of Abdulazeez AARE that was created to make his product or service to be available online, the product sales include: all phone accessories and gadgets</p>
+            <button>Learn More about My Service </button>
         </section>
         <section class="features">
             <h2>Features</h2>
