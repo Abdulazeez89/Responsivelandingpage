@@ -12,7 +12,7 @@
             <ul>
                 <li><a href="#">My Product</a></li>
                 <li><a href="#">Sign Up</a></li>
-                <li><a href="#">Learn More aboutMy Service </a></li>
+                <li><a href="#">Learn More about My Service </a></li>
             </ul>
         </nav>
     </header>
@@ -26,15 +26,15 @@
             <h2>Features</h2>
             <div class="feature">
                 <h3>Feature 1</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                <p>All Phone Accessories such as iPhone, Samsung, Techno, Itel etc</p>
             </div>
             <div class="feature">
                 <h3>Feature 2</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                <p>All Gadgets such as Desktop, Laptop, Palmtop and Tablet</p>
             </div>
             <div class="feature">
                 <h3>Feature 3</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                <p>Some others accessories such as Plasma Tv, Fans, Generators</p>
             </div>
         </section>
     </main>
